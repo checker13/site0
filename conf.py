@@ -50,7 +50,7 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 intersphinx_mapping = {
-    'site1': ('https://checker13.github.io/site1/', None),
+    'site1': ('file:///D:/Docs/checker/local/site1/_build/html', '../site1/_build/html/objects.inv'),
 }
 
 # googleanalytics_enabled = True # default True
