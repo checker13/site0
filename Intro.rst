@@ -12,3 +12,6 @@ This is site0
 
 
 ..	figure:: imgs/2.png
+
+
+..	figure:: imgs/3.png
